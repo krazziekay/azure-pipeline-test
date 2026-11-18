@@ -1,4 +1,4 @@
 # azure-pipeline-test
 
 This is the simplest possible Azure pipeline :-).
-test 2
+test 3
